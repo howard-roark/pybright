@@ -1,0 +1,6 @@
+*.pyc
+ve_light/
+notes.txt
+*.swp
+replacements.txt
+.cache/

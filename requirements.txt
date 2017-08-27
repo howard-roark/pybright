@@ -1,0 +1,3 @@
+requests
+pyephem
+python-crontab

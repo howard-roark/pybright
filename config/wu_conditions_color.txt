@@ -1,0 +1,93 @@
+Light Drizzle
+Heavy Drizzle
+Light Rain
+Heavy Rain
+Light Snow
+Heavy Snow
+Light Snow Grains
+Heavy Snow Grains
+Light Ice Crystals
+Heavy Ice Crystals
+Light Ice Pellets
+Heavy Ice Pellets
+Light Hail
+Heavy Hail
+Light Mist
+Heavy Mist
+Light Fog
+Heavy Fog
+Light Fog Patches
+Heavy Fog Patches
+Light Smoke
+Heavy Smoke
+Light Volcanic Ash
+Heavy Volcanic Ash
+Light Widespread Dust
+Heavy Widespread Dust
+Light Sand
+Heavy Sand
+Light Haze
+Heavy Haze
+Light Spray
+Heavy Spray
+Light Dust Whirls
+Heavy Dust Whirls
+Light Sandstorm
+Heavy Sandstorm
+Light Low Drifting Snow
+Heavy Low Drifting Snow
+Light Low Drifting Widespread Dust
+Heavy Low Drifting Widespread Dust
+Light Light Drifting Sand
+Heavy Low Drifting Sand
+Light Low Drifting Sand
+Heavy Blowing Snow
+Light Blowing Widespread Dust
+Heavy Blowing Widespread Dust
+Light Blowing Sand
+Heavy Blowing Sand
+Light Rain Mist
+Heavy Rain Mist
+Light Rain Showers
+Heavy Rain Showers
+Light Snow Showers
+Heavy Snow Showers
+Light Snow Blowing Snow Mist
+Heavy Snow Blowing Snow Mist
+Light Ice Pellet Showers
+Heavy Ice Pellet Showers
+Light Hail Showers
+Heavy Hail Showers
+Light Samll Hail Showers
+Heavy Small Hail Showers
+Light Thunderstorm
+Heavy Thunderstorm
+Light Thunderstorms and Rain
+Heavy Thunderstorms and Rain
+Light Thunderstorms and Snow
+Heavy Thunderstorms and Snow
+Light Thunderstorms and Ice Pellets
+Heavy Thunderstorms and Ice Pellets
+Light Thunderstorms with Hail
+Heavy Thunderstorms with Hail
+Light Thunderstorms with Small Hail
+Heavy Thunderstorms with Small Hail
+Light Freezing Drizzle
+Heavy Freezing Drizzle
+Light Freezing Rain
+Heavy Freezing Rain
+Light Freezing Fog
+Heavy Freezing Fog
+Patches of Fog
+Shallow Fog
+Partial Fog
+Overcast
+Clear
+Partly Cloudy
+Mostly Cloudy
+Scattered Clouds
+Small Hail
+Squalls
+Funnel Cloud
+Unknown Precipitation
+Unknown
